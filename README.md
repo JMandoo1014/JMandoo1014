@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:75cb45,100:9eda7c&height=200&section=header&text=Jiho's%20Github&fontSize=70&fontColor=000000" />
 </h1>
 <h2>👀About Me</h2>
-<h3>코드를 짜며 세상을 바꾸는 꿈을 꾸는 중🚀</h3>
+<h3>새로운걸 끊임없이 탐구하는🚀</h3>
 <div style="display: flex; align-items: center; justify-content: flex-start; text-align: left; gap: 20px;">
     <div style="font-weight: 400; font-size: 10px;">
         <p><b>Phone</b> 010-5237-5573</p>
