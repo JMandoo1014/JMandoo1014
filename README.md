@@ -12,17 +12,17 @@
 <details>
   <summary><b> 활동 내역 </b></summary>
 
-  - 2023 07 | Unist 꿈꾸자 과학캠프
-  - 2023 07 | 교내 MakeAThon 대회 우승
-  - 2023 08 | 제10회 대한민국 SW융합 해커톤 본선 진출
-  - 2023 09 | Unist AWS 창업 문화 확산 프로그램 Deliver Result(우수상) 수상
-  - 2023 11 | 교내 프로그래밍 대회 최우수상
-  - 2024 01 | 2024 Unist Supercomputing Youth Camp 최우수상 수상 [https://github.com/JMandoo1014/Mandelbrot-Set]
-  - 2024 07 | 교내 MakeAThon 대회 우승 [https://github.com/JMandoo1014/SimilarityAnalyzer]
-  - 2024 09 | 학생회 정보부장
-  - 2024 10 | 학교 건의함 웹 서비스 구축 [https://github.com/JMandoo1014/OnlineSuggestion]
-  - 2025 01 | 연암공대 AI 해커톤 은상 수상 [https://github.com/JMandoo1014/TrackON]
-  - 2025 01 | 2025 Unist Supercomputing Youth Camp [https://github.com/JMandoo1014/Galaxy_simulation]
+  - 2023.07 | Unist 꿈꾸자 과학캠프
+  - 2023.07 | 교내 MakeAThon 대회 우승
+  - 2023.08 | 제10회 대한민국 SW융합 해커톤 본선 진출
+  - 2023.09 | Unist AWS 창업 문화 확산 프로그램 Deliver Result(우수상) 수상
+  - 2023.11 | 교내 프로그래밍 대회 최우수상
+  - 2024.01 | 2024 Unist Supercomputing Youth Camp 최우수상 수상 [https://github.com/JMandoo1014/Mandelbrot-Set]
+  - 2024.07 | 교내 MakeAThon 대회 우승 [https://github.com/JMandoo1014/SimilarityAnalyzer]
+  - 2024.09 | 학생회 정보부장
+  - 2024.10 | 학교 건의함 웹 서비스 구축 [https://github.com/JMandoo1014/OnlineSuggestion]
+  - 2025.01 | 연암공대 AI 해커톤 은상 수상 [https://github.com/JMandoo1014/TrackON]
+  - 2025.01 | 2025 Unist Supercomputing Youth Camp [https://github.com/JMandoo1014/Galaxy_simulation]
 
 </details>
 <br>
