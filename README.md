@@ -23,6 +23,7 @@
   - 2024.10 | 학교 건의함 웹 서비스 구축 [https://github.com/JMandoo1014/OnlineSuggestion]
   - 2025.01 | 연암공대 AI 해커톤 은상 수상 [https://github.com/JMandoo1014/TrackON]
   - 2025.01 | 2025 Unist Supercomputing Youth Camp [https://github.com/JMandoo1014/Galaxy_simulation]
+  - 2025.02 | 교내 구조 안내 웹 서비스 구축 [https://github.com/JMandoo1014/SchoolMapService]
 
 </details>
 <br>
