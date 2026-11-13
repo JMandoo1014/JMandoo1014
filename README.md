@@ -1,7 +1,5 @@
 ## 안녕하세요, 최지호입니다
 
-숭실대학교 컴퓨터학부 26학번입니다. 직접 쓰려고 만든 도구부터 친구들이 매일 쓰는 서버, 결제까지 붙인 앱까지 만들어 왔습니다.
-
 ### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -14,9 +12,8 @@
 
 ### Projects
 
-- [Uni-Form](https://github.com/JMandoo1014/Uniform-backend) - 대학(원)생 설문조사 플랫폼. 백엔드에서 인증, 회원, 팀, 설문, AI 설문 도우미를 맡음 (운영 중)
-- [Sotto](https://github.com/JMandoo1014/lyricsbar-releases) - Spotify 싱크 가사를 화면에 띄우는 macOS 앱. 앱, 라이선스 서버, 결제까지 혼자 개발 (출시 준비 중)
-- [DiscordAllay](https://github.com/JMandoo1014/DiscordAllay) - 마인크래프트 서버와 디스코드를 연결하는 플러그인 (친구 서버에서 운영 중)
+- [Uni-Form](https://github.com/JMandoo1014/Uniform-backend) - 대학(원)생 설문조사 플랫폼. 백엔드 담당. 인증, 회원, 팀, 설문, AI 설문 도우미 api 제작 (운영 중)
+- [Sotto](https://github.com/JMandoo1014/lyricsbar-releases) - Spotify 싱크 가사를 화면에 띄우는 macOS 앱. (출시 준비 중)
 - [Overclaude](https://github.com/JMandoo1014/Overclaude) - claude.ai 사용량을 메뉴바에 띄우는 macOS 앱
 - [TrackON](https://github.com/JMandoo1014/TrackON) - 사진과 위치로 도로 마모를 신고하는 앱
 - [BIB 보컬학원 홈페이지](https://bibvocal.com) - 의뢰받아 제작한 학원 홈페이지
