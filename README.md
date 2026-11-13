@@ -15,8 +15,8 @@
 - [Uni-Form](https://github.com/JMandoo1014/Uniform-backend) - 대학(원)생 설문조사 플랫폼. 백엔드 담당. 인증, 회원, 팀, 설문, AI 설문 도우미 api 제작 (운영 중)
 - [Sotto](https://github.com/JMandoo1014/lyricsbar-releases) - Spotify 싱크 가사를 화면에 띄우는 macOS 앱. (출시 준비 중)
 - [Overclaude](https://github.com/JMandoo1014/Overclaude) - claude.ai 사용량을 메뉴바에 띄우는 macOS 앱
-- [TrackON](https://github.com/JMandoo1014/TrackON) - 사진과 위치로 도로 마모를 신고하는 앱
-- [BIB 보컬학원 홈페이지](https://bibvocal.com) - 의뢰받아 제작한 학원 홈페이지
+- [TrackON](https://github.com/JMandoo1014/TrackON)
+- [BIB 보컬학원 홈페이지](https://bibvocal.com)
 
 ### Awards
 
